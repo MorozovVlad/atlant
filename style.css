@@ -309,6 +309,7 @@ html body footer .right-block img {
   html body header .left-block {
     margin: 0;
     padding: 0;
+    padding-left: 3px;
     text-align: left;
     flex-grow: 1.5;
   }
